@@ -58,7 +58,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 
 
 
-
+/*ここから編集対象*/
 /*
 ナビゲーションバーのデザイン
  */
@@ -79,11 +79,11 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 }
 
 .navbar .navbar-nav { 
-    float: none; /* 配置の回り込みの設定() */    
+    float: none; /* 配置の回り込みの設定 */    
 }
 
 .navbar-nav { 
-    margin: 0px;  /*外側の隙間の設定 */
+    margin: 0px;  /* 外側の隙間の設定 */
 }
 
 .navbar .nav 
@@ -131,7 +131,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 /*
 ナビゲーションバーのデザイン
  */
-
+/*ここまで編集対象*/
 
 
 .fixed .navbar  { position: fixed; top: 60px; }

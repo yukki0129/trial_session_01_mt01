@@ -55,8 +55,8 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .jumbotron .scroll-down:hover .glyphicon { padding-top: 25px; }
 
 /*
-ƒƒjƒ…[•”•ª‚ÌƒfƒUƒCƒ“
-‚±‚±‚©‚ç˜M‚é
+ãƒ¡ãƒ‹ãƒ¥ãƒ¼éƒ¨åˆ†ã®ãƒ‡ã‚¶ã‚¤ãƒ³
+ã“ã“ã‹ã‚‰å¼„ã‚‹
  */
 .navbar  { border: 0px; background-color: #aaaaaa; position: absolute; top: 100%; right: 5%; width: 110px; z-index: 999; }
 .navbar .navbar-collapse { padding: 0px; max-height: none; }
@@ -65,14 +65,14 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .navbar .nav 
 	> li { display: block; float: none; height: 80px; }
 .navbar .nav 
-	/* ƒƒjƒ…[“àŠeƒAƒCƒeƒ€‚ÌƒfƒUƒCƒ“ */
+	/* ãƒ¡ãƒ‹ãƒ¥ãƒ¼å†…å„ã‚¢ã‚¤ãƒ†ãƒ ã®ãƒ‡ã‚¶ã‚¤ãƒ³ */
 	> li a { display: block;  height: 80px; text-align: center; padding-top: 30px; font-weight: 600; color: #FFFFFF; }
 .navbar .nav 
-	/* ƒzƒo[‚µ‚½‚Æ‚«‚Ì•\¦ */
+	/* ãƒ›ãƒãƒ¼ã—ãŸã¨ãã®è¡¨ç¤º */
 	> li a:hover, .navbar .nav 
 	> li a:focus { color: #fa0000; }
 .navbar-default .navbar-nav 
-	/* Œ»İ•\¦‚µ‚Ä‚¢‚é•”•ª‚ğƒnƒCƒ‰ƒCƒg */
+	/* ç¾åœ¨è¡¨ç¤ºã—ã¦ã„ã‚‹éƒ¨åˆ†ã‚’ãƒã‚¤ãƒ©ã‚¤ãƒˆ */
 	> .active 
 	> a, .navbar-default .navbar-nav 
 	> .active 
@@ -82,8 +82,8 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .navbar-default .navbar-toggle:hover .icon-bar,
 .navbar-default .navbar-toggle:focus .icon-bar { background: #222222; }
 /*
-ƒƒjƒ…[•”•ª‚ÌƒfƒUƒCƒ“
-‚±‚±‚Ü‚Å˜M‚é
+ãƒ¡ãƒ‹ãƒ¥ãƒ¼éƒ¨åˆ†ã®ãƒ‡ã‚¶ã‚¤ãƒ³
+ã“ã“ã¾ã§å¼„ã‚‹
  */
 
 .fixed .navbar  { position: fixed; top: 60px; }

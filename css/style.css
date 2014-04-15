@@ -66,30 +66,30 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .navbar  { 
     border: 0px; /* 枠線の設定 */
     background-color: #aaaaaa; /* 背景色の設定 */
-    position: absolute; 
-    top: 100%; 
-    right: 5%; 
+    position: absolute; /* 配置の仕方を設定 */
+    top: 100%; /* 配置(上側)の設定 */
+    right: 5%; /* 配置(右側)の設定 */
     width: 110px; /* 幅の設定 */
-    z-index: 999; 
+    z-index: 999; /* 重なりの順序の設定 */
 }
 
 .navbar .navbar-collapse { 
-    padding: 0px; 
-    max-height: none; 
+    padding: 0px; /* 内側の隙間の設定 */
+    max-height: none; /*高さの最大値を設定 */
 }
 
 .navbar .navbar-nav { 
-    float: none; 
+    float: none; /* 配置の回り込みの設定() */    
 }
 
 .navbar-nav { 
-    margin: 0px; 
+    margin: 0px;  /*外側の隙間の設定 */
 }
 
 .navbar .nav 
 	> li {
-    display: block; 
-    float: none; 
+    display: block; /* 要素の表示形式を設定 */
+    float: none; /* 配置の回り込みの設定 */    
     height: 80px; /* 高さの設定 */
 }
 
@@ -97,11 +97,11 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 /* ナビゲーションバーの中身のデザイン */
 .navbar .nav 
 	> li a { 
-        display: block;  
+        display: block; /* 要素の表示形式を設定 */  
         height: 80px; /* 高さの設定 */
         text-align: center; /* 文字の中央揃え */
-        padding-top: 30px; 
-        font-weight: 600; 
+        padding-top: 30px; /* 内側の上側の隙間を設定 */ 
+        font-weight: 600; /* 文字の太さの設定 */
         color: #FFFFFF; /* 文字色の設定 */
 }
 
